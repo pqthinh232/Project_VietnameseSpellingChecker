@@ -1,24 +1,23 @@
 import os
 import re
 
-def rename_files(directory):
+def rename_files(directory, start_page):
     print(f"Starting to rename files in directory: {directory}")
 
-    # Get all .jpg files in the directory
     files = [f for f in os.listdir(directory) if f.lower().endswith('.jpg')]
 
-    # Sort files based on the number at the end of their names (e.g., _1, _2, _3)
+    # Sort files based on the number
     def sort_key(filename):
         match = re.search(r'_(\d+)\.jpg$', filename)
         if match:
             return int(match.group(1))
-        return float('inf')  # Push unmatched files to the end
+        return float('inf') 
 
     files.sort(key=sort_key)
 
-    # Rename files sequentially
     for index, old_filename in enumerate(files):
-        new_filename = f"page_{index + 1}.jpg"
+        new_page_number = start_page + index
+        new_filename = f"page_{new_page_number}.jpg"
 
         old_path = os.path.join(directory, old_filename)
         new_path = os.path.join(directory, new_filename)
@@ -36,6 +35,12 @@ if __name__ == "__main__":
     folder = input("Enter the folder name containing the images: ").strip()
 
     if os.path.isdir(folder):
-        rename_files(folder)
+        start_page = input("Enter the starting page number: ").strip()
+
+        if start_page.isdigit():
+            start_page = int(start_page)
+            rename_files(folder, start_page)
+        else:
+            print("Error: Starting page must be a positive integer.")
     else:
         print(f"Error: The folder '{folder}' does not exist. Please check the path again.")
