@@ -44,4 +44,3 @@ if __name__ == "__main__":
             print("Error: Starting page must be a positive integer.")
     else:
         print(f"Error: The folder '{folder}' does not exist. Please check the path again.")
-
