@@ -1,29 +1,29 @@
-crop_img/page_9_crop_0.jpg	LOI GIÓI THIEU
-crop_img/page_9_crop_1.jpg	CHO LAN TAI BAN THU NHAT
+crop_img/page_9_crop_0.jpg	LOI GIóI THIEU
+crop_img/page_9_crop_1.jpg	CHO LAN TAI BAN THU' NHAT
 crop_img/page_9_crop_2.jpg	Viet Nam là mòt quóc gia có truyèn thóng lich sùr và vǎn hóa tù
-crop_img/page_9_crop_3.jpg	làu dòi. Vièc hiéu biét và nám vūng vè lich sù vǎn hóa cua dàn tòc
+crop_img/page_9_crop_3.jpg	làu dòi. Viec hièu biét và nám vǔrng vè lich sùr vǎn hóa cua dàn tòc
 crop_img/page_9_crop_4.jpg	vùra là nhu càu, vùra là dòi hòi búc thiét dói vói mǒi nguòi Viet
 crop_img/page_9_crop_5.jpg	Nam, nhát là trong bói cành hien nay dát nuóc dang trong quá trinh
-crop_img/page_9_crop_6.jpg	Dòi mói, dày manh su nghièp còng nghièp hóa, hien dai hóa và hōi
-crop_img/page_9_crop_7.jpg	nhàp quóc té. Dè dáp úng duqc nhüng dòi hòi dó, tùr truóc dén nay
-crop_img/page_9_crop_8.jpg	dā có nhièu co quan, tò chúrc và các tác già ò trong nuróc và nuróc
+crop_img/page_9_crop_6.jpg	Dòi mói, dày manh su nghièp còng nghiep hóa, hien dai hóa và hōi
+crop_img/page_9_crop_7.jpg	nhàp quóc té. Dè dáp úng duqc nhūng dòi hòi dó, tùr truóc dén nay
+crop_img/page_9_crop_8.jpg	dā có nhièu co quan, tò chúrc và các tác già ò trong nuróc và nuóc
 crop_img/page_9_crop_9.jpg	ngoài quan tàm nghien cúru vè lich sùr Viet Nam duói nhièu khía
-crop_img/page_9_crop_10.jpg	canh khác nhau. Nhièu còng trinh lich sùr da xuát ban và duqc còng
-crop_img/page_9_crop_11.jpg	bó rōng rāi, giúp cho nhàn dàn Viet Nam và ban bè trèn thé giói
-crop_img/page_9_crop_12.jpg	hièu biét vè lich sùr, dát nuóc và con nguòi Viet Nam. Tuy nhien,
+crop_img/page_9_crop_10.jpg	canh khác nhau. Nhièu còng trinh lich sùr da xuát ban và dugc còng
+crop_img/page_9_crop_11.jpg	bó rong rāi， giúp cho nhàn dan Vièt Nam và ban bè trén thé giói
+crop_img/page_9_crop_12.jpg	hièu biét vè lich sir, dát nuóc và con nguòi Viet Nam. Tuy nhien,
 crop_img/page_9_crop_13.jpg	hàu hét các còng trinh dó dèu là nhūng còng trinh lich sùr vǎn còn
 crop_img/page_9_crop_14.jpg	khá giàn lugc, chua phan ánh hét dugc toàn bò quá trinh lich sùr cùa
 crop_img/page_9_crop_15.jpg	dan tòc Viet Nam tù khòi thùy dén ngày nay mot cách toàn dien, có
 crop_img/page_9_crop_16.jpg	hé thóng; Mot só còng trinh lich sù khác lai mang tính chát quá
 crop_img/page_9_crop_17.jpg	chuyèn sàu vè tùrng linh vyc, tùrng thòi ky, hoǎc tùrng ván dè lich sùr
-crop_img/page_9_crop_18.jpg	cu thè, nèn chua thu hút dugc sy quan tàm rong rai cùa mqi dói
-crop_img/page_9_crop_19.jpg	turong trong xa hoi. Do dó chua dáp úrng dugc syr hièu biét vè lich sr
-crop_img/page_9_crop_20.jpg	và vǎn hóa dàn tòc Vièt Nam cùa quàng dai quàn chúng nhàn dàn.
+crop_img/page_9_crop_18.jpg	cu thè, nèn chua thu hút dugc sy quan tàm rōng rǎi cùa mqi dói
+crop_img/page_9_crop_19.jpg	tuong trong xa hoi. Do dó chura dáp úrng dugc su hièu biét vè lich sùr
+crop_img/page_9_crop_20.jpg	và vǎn hóa dàn tòc Viet Nam cùa quàng dai quàn chúng nhàn dàn.
 crop_img/page_9_crop_21.jpg	Hon nüra trong xa hoi Viet Nam hien nay, rát nhièu nguòi dan,
-crop_img/page_9_crop_22.jpg	thàm chí có cà hoc sinh các truròng phò thòng co sò và phò thòng
+crop_img/page_9_crop_22.jpg	thàm chí có cà hoc sinh các truòng phò thòng co sò và phò thòng
 crop_img/page_9_crop_23.jpg	trung hoc, kě cà mòt só sinh vièn cùa các truòng cao dǎng và dai
 crop_img/page_9_crop_24.jpg	hoc khòng thuòc các truròng khói Khoa hoc xa hòi và Nhàn vǎn
-crop_img/page_9_crop_25.jpg	có sy hiéu biét rát han ché vè lich sùr dan toc. Thrc trang tren day
+crop_img/page_9_crop_25.jpg	có sy hièu biét rát han ché vè lich sur dàn tòc. Thc trang trèn day
 crop_img/page_9_crop_26.jpg	do nhièu nguyèn nhàn, có cà nguyèn nhàn chù quan lǎn nguyèn nhàn
 crop_img/page_9_crop_27.jpg	9
 crop_img/page_10_crop_0.jpg	LICH SU VIET NAM - TAP 9
